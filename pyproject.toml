@@ -1,0 +1,9 @@
+[project]
+name = "pharmacy-care"
+version = "0.1.0"
+description = "药师连续照护协议的服务端基础"
+requires-python = ">=3.11"
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
